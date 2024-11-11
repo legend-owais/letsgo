@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/letsgo/static/css/main.74776ecf.css",
+    "main.js": "/letsgo/static/js/main.d39398e5.js",
+    "static/js/453.411811ea.chunk.js": "/letsgo/static/js/453.411811ea.chunk.js",
+    "index.html": "/letsgo/index.html",
+    "main.74776ecf.css.map": "/letsgo/static/css/main.74776ecf.css.map",
+    "main.d39398e5.js.map": "/letsgo/static/js/main.d39398e5.js.map",
+    "453.411811ea.chunk.js.map": "/letsgo/static/js/453.411811ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74776ecf.css",
+    "static/js/main.d39398e5.js"
+  ]
+}
